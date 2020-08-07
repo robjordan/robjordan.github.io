@@ -2,7 +2,7 @@
 layout: post
 title:  "Investigating the Tracking Accuracy of GPS devices"
 date:   2019-12-19 00:00:00 +0100
-categories: update python gps cycling
+categories: update cycling gps python
 ---
 I'm a cyclist, and I take part in long-distance events such as the 2016 Transcontinental Race (4,000km, unsupported, from Belgium to Turkey or Greece), Paris-Brest-Paris, and long Audax events up to 600km. At the end of such a long event, I want a GPS track to document my route. Sometimes it's just for interest and posterity, but in some events, the GPS track is required to validate completion.
 

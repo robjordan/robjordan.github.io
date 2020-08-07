@@ -2,7 +2,7 @@
 layout: post
 title:  "Digitising 35mm slides quickly using a projector, DSLR camera and a microcontroller"
 date:   2020-01-20 00:00:00 +0100
-categories: update arduino microcontrollers esp8266 photography
+categories: update photography arduino microcontrollers esp8266
 ---
 We have a large collection of 35mm photo slides. Some were taken by my father-in-law in the 1950s, 60s, 70s and 80s. Some were taken by me or my wife in the 80s and 90s.
 
