@@ -29,4 +29,4 @@ As I mentioned, many manufacturers followed Intel in offering 2716-style devices
 
 Both parts have the same pinout as the original Intel 2716. The letter C in between 27 and 16 indicates that the Fairchild NMC27C16 is a CMOS device. The chief benefit of CMOS technology is lower power consumption than NMOS. The active power consumption of the Fairchild NMC27C16 chip is advertised as 55mW vs 525mW for the STM M2716 part. Not that this matters much in the context of the Sorcerer which is already cooking with tens of Watts burning off in the power supply.
 
-But more significant in the present exercise is the voltage required on pin 21 to program the memory (Vpp). M2716 requires NMC27C16 reuir
+But more significant in the present exercise is the voltage required on pin 21 to program the memory (V<sub>pp</sub>). M2716 requires NMC27C16 reuir
