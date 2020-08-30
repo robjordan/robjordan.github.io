@@ -21,6 +21,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        <img src="{{ post.image }}" height="100px">
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
