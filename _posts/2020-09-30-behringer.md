@@ -74,7 +74,7 @@ I try a different tack, since Krishna doesn't seem to have much sympathy with my
 
 ### Behringer
 
-Maybe I'm a glutton for punishment, but the thought of these nine speakers, priced well under half RRP, but trapped in an Amazon warehouse, is driving me a little bit nuts. In desperation I Tweet a DM to *@behringer*. "... I think Amazon will find it really hard to sell the nine items they say are in stock. Maybe you can help???"
+Maybe I'm a glutton for punishment, but the thought of these nine speakers, priced well under half RRP, but trapped in an Amazon warehouse, is driving me a little bit nuts. In desperation I tweet a DM to *@behringer*. "... I think Amazon will find it really hard to sell the nine items they say are in stock. Maybe you can help???"
 
 I experience a little flicker of excitement as a reply comes back: *"Hi Rob, hmm, this seems to be a really tricky problem. I will try to pass this along internally..."*
 
