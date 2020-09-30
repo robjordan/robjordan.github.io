@@ -3,7 +3,7 @@ layout: post
 title:  "Based on your recent activity, we thought you might be interested..."
 date:   2020-09-30 00:00:00 +0100
 categories: update audio 
-image: https://github.com/robjordan/techblog/raw/gh-pages/assets/amazon-based-on-your-recent-activity.png
+image: http://techblog.bagu.uk/assets/bike-speaker-square.jpg
 ---
 
 ![Amazon email]({{ site.url }}/assets/amazon-based-on-your-recent-activity.png)
@@ -12,17 +12,17 @@ Damn right I'm interested. I'm having the weirest experence with Amazon. Let me 
 
 Two years ago I got interested in buying one or more PA speakers. I'm involved with [Cycle Winchester](https://cyclewinchester.org.uk); we campaign to make Winchester beter by bike, and, as part of that, we organise mass cycle rides around the city a couple of times a year. We've found that having music on the ride really helps build a joyous mood. Fun, but challenging the dominance of motor vehicles on the road.
 
-Never passing up an opportunity to make a project into a *technology* product, I designed and built some battery-powered amplifiers, packed inside little lunchboxes. I'll tell you more about those another time!
+Never passing up an opportunity to make a project into a *technology* project, I designed and built some battery-powered amplifiers, packed inside little lunchboxes. I'll tell you more about those another time!
 
-But speakers are more of a problem. I read a great article ([Off-grid Party Sound Systems](https://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)) that recommended some Behringer speakers and they seemed ideal. But I didn't feel like splashing out well over £100 a go for an occasional bit of fun. So we made do with domestic speaker filched from our various home stereo systems, awkwardly wrapped in polythene against the elements (we have terrible luck with the weather on our rides!).
+But speakers are more of a problem. I read a great article ([Off-grid Party Sound Systems](https://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)) that recommended some Behringer speakers and they seemed ideal. But I didn't feel like splashing out well over £100 a go for an occasional bit of fun. So we made do with domestic speakers filched from our various home stereo systems, awkwardly wrapped in polythene against the elements (we have terrible luck with the weather on our rides!).
 
 ![Speaker on bike rack]({{ site.url }}/assets/bike-speaker.jpg) ![Amplifier]({{ site.url }}/assets/lunchbox-amplifier.jpg)
 
 "Maybe one day those PA speakers will be cheaper", I thought, and added them to a subscription in [camelcamelcamel](https://camelcamelcamel.com/). In case you don't know, it's a website that will alert you when your chosen product falls below a certain price. "If they get below £80, I'm interested".
 
-Two years later, out of the blue I get an email. *"The Amazon Price for Behringer EuroLive B212XL 800-Watt 2-Way, Passive PA Speaker - Black has dropped at Amazon and is now £1.35 below your desired price."* "Hmm, interesting", I think, but it's still a lot.
+Two years later, out of the blue I get an email. *"The Amazon Price for Behringer EuroLive B212XL 800-Watt 2-Way, Passive PA Speaker has dropped at Amazon and is now £1.35 below your desired price."* "Hmm, interesting", I think, but it's still a lot.
 
-Then two days later, *"the price has dropped at Amazon and is now £17.70 below your desired price."* Two more days and it's £21 below. This continues for four weeks, by which time, the price is £41 and I can't resist any longer. Onto Amazon, 9 items available, hit *Buy Now*, but I get this.
+Then two days later, *"the price has dropped at Amazon and is now £17.70 below your desired price."* Two more days and it's £21 below. This continues for four weeks, by which time, the price is £41 and I can't resist any longer. Onto Amazon, nine items available, hit *Buy Now*, but I get this.
 
 ![Amazon delivery error]({{ site.url }}/assets/amazon-delivery-error.png)
 
@@ -66,7 +66,7 @@ Krishna: *"Have you tried delivering to a friend or family member?"* "Yes, I hav
 
 Krishna: *"I suggest you change your address."*
 
-Wondering if he seriously wants me to move house in the hope that the new residence I pick happens to be the sole address in the UK where Amazon can deliver this item.
+Wondering if he seriously wants me to move house. And if I did, what chance that my new residence happens to be the sole address in the UK where Amazon can deliver this item.
 
 I try a different tack, since Krishna doesn't seem to have much sympathy with my plight; maybe he will respond better to a suggestion about Amazon's bottom line. "For Amazon's sake, you have nine items here, that I'm somewhat certain nobody in the UK can buy. If you ever want to be able to sell this inventory, you might want to take a look at the product configuration to see why it can't be purchased."
 
@@ -82,7 +82,7 @@ But days pass without further response and my excitement fades.
 
 ### Ebay
 
-A curious thing I noticed while the Amazon price was plummeting earlier in September: Ebay prices for the product were also falling at a similar rate, though always roughly £10 more than Amazon. I sensed something slightly fishy, but - with Amazon's products out of reach, and not wishing to cut off nose to spite face - I reluctantly stumped up the extra £10 to buy a new item from an Ebay seller. "At least that nightmare is over, I thought, and settled back to await delivery".
+A curious thing I noticed while the Amazon price was plummeting earlier in September: Ebay prices for the product were also falling at a similar rate, though always roughly £10 more than Amazon. I sensed something slightly fishy, but - with Amazon's products out of reach, and not wishing to cut off nose to spite face - I reluctantly stumped up the extra £10 to buy a new item from an Ebay seller. "At least that nightmare is over", I thought, and settled back to await delivery.
 
 Two days later:
 
