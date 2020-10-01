@@ -8,7 +8,7 @@ image: http://techblog.bagu.uk/assets/bike-speaker-square.jpg
 
 ![Amazon email]({{ site.url }}/assets/amazon-based-on-your-recent-activity.png)
 
-Damn right I'm interested. I'm having the weirdest experence with Amazon. Let me tell you about it.
+Damn right I'm interested. I'm having the weirdest experience with Amazon. Let me tell you about it.
 
 Two years ago I got interested in buying one or more PA speakers. I'm involved with [Cycle Winchester](https://cyclewinchester.org.uk); we campaign to make Winchester beter by bike, and, as part of that, we organise mass cycle rides around the city a couple of times a year. We've found that having music on the ride really helps build a joyous mood. Fun, but challenging the dominance of motor vehicles on the road.
 
