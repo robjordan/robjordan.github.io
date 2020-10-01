@@ -22,7 +22,7 @@ title: IT Pro Turned Amateur
 email: techblog@bagu.uk
 description: >- # this means to ignore newlines until "baseurl:"
   After 30+ years as a software developer, IT architect, consultant and 
-  lecturer, I'm now retired and meddling with software and electronics as 
+  lecturer, I'm now meddling with software and electronics as 
   a hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://techblog.bagu.uk" # the base hostname & protocol for your site, e.g. http://example.com
