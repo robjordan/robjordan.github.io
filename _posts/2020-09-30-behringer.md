@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Based on your recent activity, we thought you might be interested..."
-date:   2020-09-30 00:00:00 +0100
+date:   2020-10-01 09:46:46
 categories: update audio 
 image: http://techblog.bagu.uk/assets/bike-speaker-square.jpg
 ---
