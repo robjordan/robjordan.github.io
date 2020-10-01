@@ -10,7 +10,7 @@ image: http://techblog.bagu.uk/assets/bike-speaker-square.jpg
 
 Damn right I'm interested. I'm having the weirdest experience with Amazon. Let me tell you about it.
 
-Two years ago I got interested in buying one or more PA speakers. I'm involved with [Cycle Winchester](https://cyclewinchester.org.uk); we campaign to make Winchester beter by bike, and, as part of that, we organise mass cycle rides around the city a couple of times a year. We've found that having music on the ride really helps build a joyous mood. Fun, but challenging the dominance of motor vehicles on the road.
+Two years ago I got interested in buying one or more PA speakers. I'm involved with [Cycle Winchester](https://cyclewinchester.org.uk); we campaign to make Winchester beter by bike, and, as part of that, we organise mass cycle rides around the city a couple of times a year ([but not this year, obviously](https://cyclewinchester.org.uk/category/rides/ntmr/)). We've found that having music on the ride really helps build a joyous mood. Fun, but challenging the dominance of motor vehicles on the road.
 
 Never passing up an opportunity to make a project into a *technology* project, I designed and built some battery-powered amplifiers, packed inside little lunchboxes. I'll tell you more about those another time!
 
