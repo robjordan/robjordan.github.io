@@ -14,7 +14,7 @@ Two years ago I got interested in buying one or more PA speakers. I'm involved w
 
 Never passing up an opportunity to make a project into a *technology* project, I designed and built some battery-powered amplifiers, packed inside little lunchboxes. I'll tell you more about those another time!
 
-But speakers are more of a problem. I read a great article ([Off-grid Party Sound Systems](https://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)) that recommended some Behringer speakers and they seemed ideal. But I didn't feel like splashing out well over £100 a go for an occasional bit of fun. So we made do with domestic speakers filched from our various home stereo systems, awkwardly wrapped in polythene against the elements (we have terrible luck with the weather on our rides!).
+But speakers are more of a problem. I read a great article ([Off-Grid Party Sound Systems](https://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)) that recommended some Behringer speakers and they seemed ideal. But I didn't feel like splashing out well over £100 a go for an occasional bit of fun. So we made do with domestic speakers filched from our various home stereo systems, awkwardly wrapped in polythene against the elements (we have terrible luck with the weather on our rides!).
 
 ![Speaker on bike rack]({{ site.url }}/assets/bike-speaker.jpg) ![Amplifier]({{ site.url }}/assets/lunchbox-amplifier.jpg)
 
