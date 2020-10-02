@@ -4,6 +4,7 @@ title:  "DIY Dummy Speaker Load"
 date:   2020-08-30 00:00:00 +0100
 categories: update audio 
 image: https://github.com/robjordan/techblog/raw/gh-pages/assets/dummy-load-finished.jpg
+summary: In which I build a pair of speaker dummy loads for testing amplifiers.
 ---
 I recently finished a build of a [Squeezebox](https://en.wikipedia.org/wiki/Squeezebox_(network_music_player)) with integrated class D amplifier (of which I hope to write more later).
 

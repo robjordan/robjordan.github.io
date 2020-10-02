@@ -4,6 +4,7 @@ title:  "Digitising 35mm slides quickly using a projector, DSLR camera and a mic
 date:   2020-01-20 00:00:00 +0100
 categories: update photography arduino microcontrollers esp8266
 image: https://github.com/robjordan/projector-control/raw/master/images//overhead-sm.jpg
+summary: Automated digitisation of 35mm photographic slides using a projector, camera and ESP8266 microcontroller.
 ---
 We have a large collection of 35mm photo slides. Some were taken by my father-in-law in the 1950s, 60s, 70s and 80s. Some were taken by me or my wife in the 80s and 90s.
 
