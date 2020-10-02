@@ -23,15 +23,16 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  {% if page.tweet %}
+    <hr style="color: #e8e8e8">
+    <h2>Comments</h2>
+    <p>This article has a <a href="{{ page.tweet }}">corresponding Tweet</a>. 
+      If you would like to comment on the article, please reply to the Tweet. 
+      If you love the article, please retweet it!</p>
+      <a href="{{ page.tweet }}"><img src="/assets/twitter-link.png"></a>
+
+  {% endif %}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-  <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 1789; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: '{{ page.url | absolute_url }}',
-        id: '{{page.id}}'
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 </article>
