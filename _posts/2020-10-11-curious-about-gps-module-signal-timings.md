@@ -3,7 +3,7 @@ layout: post
 title: Curious about GPS module signal timings?
 author: Rob
 summary: I've long been curious about the timings of GPS module signals, and whether the pulse-per-second (PPS) signal could be used to wake up a sleeping GPS. Now I have the answer.
-categories: update gps cycling 
+categories: update 
 image: http://techblog.bagu.uk/assets/gps-neo-7n.jpg
 tweet: https://twitter.com/robjordan/status/1315282226838417413
 ---
