@@ -21,7 +21,7 @@ Part of the battery efficiency consideration is to minimise the time waiting in 
 
 GPS modules generally also output a timing signal, generally known as PPS, for pulse-per-second. A possible tiny efficiency improvement might be possible if the controller could be woken, not by expiry of a timer, but by the hardware signal provided by the PPS. 
 
-I've looked at the datsheets for several GPS modules and never found a clear indication of the relationship between the PPS signal, and the output of GPS tracking messages on the Transmit (TX) pin. It would be convenient if the PPS signal occurred just before messages appear on TX, with just enough time to arm the UART to receive the data.
+I've looked at the datasheets for several GPS modules and never found a clear indication of the relationship between the PPS signal, and the output of GPS tracking messages on the Transmit (TX) pin. It would be convenient if the PPS signal occurred just before messages appear on TX, with just enough time to arm the UART to receive the data.
 
 Now I have an oscillosope I can finally answer the question, at least for one GPS module. I conducted an experiment with a Chinese module, ostensibly based on a U-blox NEO-7N GPS receiver. Most likely the chip is a fake, but perhaps the findings hold true for genuine U-blox receivers.
 
