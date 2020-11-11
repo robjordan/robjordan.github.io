@@ -3,9 +3,11 @@ layout: post
 title: "Nocmig: Are two mics better than one?"
 author: Rob
 summary: We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic dish to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
-categories: update
+categories: update nocmig
 image: http://techblog.bagu.uk/assets/dish-with-two-mics.jpg
 tweet: https://twitter.com/robjordan/status/1326589302726340609
+redirect_from:
+    - /update/2020/11/11/nocmig-stereo-or-mono.html
 ---
 ![Parabolic dish with two microphones](http://techblog.bagu.uk/assets/dish-with-two-mics.jpg)
 
@@ -17,7 +19,7 @@ Does it matter? I've always had a mild concern about this, but just blundered on
 
 Well, Tom's question prompted an experiment, and some further reading.
 
-[This paper](https://www.wildtronics.com/parabolicaccuracy.html) from Wildtronics addresses the effect of inaccurate placement of mics relative to the focal point of the parabola. As they explain, the focus of the parabola is the point at which reflected sounds from all over the dish have traveled an equal distance from the sound source, and so should arrive simultaneously. If they arrive in synchronised manner like this, the sound waves will be in-phase, and add together to make a louder sound. This is the whole point of the parabolic dish, it amplifies distant sounds by focusing these reflections.
+[This paper](https://www.wildtronics.com/parabolicaccuracy.html) from Wildtronics addresses the effect of inaccurate placement of mics relative to the focal point of the parabola. As they explain, the focus of the parabola is the point at which reflected sounds from all over the dish have traveled an equal distance from the sound source, and so should arrive simultaneously. If they arrive synchronously like this, the sound waves will be in-phase, and add together to make a louder sound. This is the whole point of the parabolic dish, it amplifies distant sounds by focusing these reflections.
 
 ![Parabolic mic](https://www.wildtronics.com/images/parabolic%20reflector.png)
 
