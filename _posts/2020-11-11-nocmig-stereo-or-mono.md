@@ -19,7 +19,7 @@ Does it matter? I've always had a mild concern about this, but just blundered on
 
 Well, Tom's question prompted an experiment, and some further reading.
 
-[This paper](https://www.wildtronics.com/parabolicaccuracy.html) from Wildtronics addresses the effect of inaccurate placement of mics relative to the focal point of the parabola. As they explain, the focus of the parabola is the point at which reflected sounds from all over the dish have traveled an equal distance from the sound source, and so should arrive simultaneously. If they arrive synchronously like this, the sound waves will be in-phase, and add together to make a louder sound. This is the whole point of the parabolic dish, it amplifies distant sounds by focusing these reflections.
+[This paper](https://www.wildtronics.com/parabolicaccuracy.html) from Wildtronics addresses the effect of inaccurate placement of mics relative to the focal point of the parabola. As they explain, the focus of the parabola is the point at which reflected sounds from all over the dish have travelled an equal distance from the sound source, and so should arrive simultaneously. If they arrive synchronously like this, the sound waves will be in-phase, and add together to make a louder sound. This is the whole point of the parabolic dish, it amplifies distant sounds by focusing these reflections.
 
 ![Parabolic mic](https://www.wildtronics.com/images/parabolic%20reflector.png)
 
