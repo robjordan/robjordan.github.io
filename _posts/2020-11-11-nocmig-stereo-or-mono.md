@@ -2,14 +2,14 @@
 layout: post
 title: "Nocmig: Are two mics better than one?"
 author: Rob
-summary: We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic mic to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
+summary: We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic dish to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
 categories: update
 image: http://techblog.bagu.uk/assets/dish-with-two-mics.jpg
-tweet: 
+tweet: https://twitter.com/robjordan/status/1326589302726340609
 ---
 ![Parabolic dish with two microphones](http://techblog.bagu.uk/assets/dish-with-two-mics.jpg)
 
-We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic mic to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
+We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic dish to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
 
 While helping someone to chose equipment to start their own nocmig journey, [Tom](https://twitter.com/tomjbirding) asked me whether we have a stereo or a mono microphone. The answer is that we have [a pair of capsule mics](https://micbooster.com/clippy-microphones/99-xlr-stereo-clippy-em172-microphone.html), which we record as two channels of a stereo pair. The two mics are positioned as near as possible to the focal point of [a parabolic dish](https://parabolicmicrophone.co.uk/). But, it's clearly impossible to position both mics precisely at the focal point. With a foam wind shield, the diameter of the mic is around 2.5 cm, so &ndash; if each is positioned as close as possible to the focal point &ndash; both will be at least 1.25 cm distant from the focal point in the horizontal plane (assuming the dish to be horizontal). Moreover, the arrangement of the mic clips on the central column of the dish imposes some more constraints; they can't both be clipped at the exact same point, so there will also be a small error in the vertical plane.
 
