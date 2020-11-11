@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nocmig with a parabolic mic: Stereo or Mono?"
+title: "Nocmig: Are two mics better than one?"
 author: Rob
 summary: We've been recording nocturnal bird migration sounds for a year, using two mics near the focal point of a parabolic mic to make a stereo recording. But neither mic is precisely at the focal point of the parabola. Would we be better to make a mono recording with a more accurately positioned single mic?
 categories: update
