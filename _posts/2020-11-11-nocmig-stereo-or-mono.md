@@ -29,7 +29,7 @@ But at a point slightly distant from the focus, waves will arrive out-of-phase, 
 
 I wasn't certain how significant would this cancelling effect be, given two mics positioned with an inaccuracy of about 2 cm.
 
-The Wildtronics paper clarifies this. It's frequency-related (higher-pitched sounds require greater accuracy than lower), but in short, an 8  kHz sound, such as the ubiquitous Redwing, will be seriously impaired by an inaccuracy of just 1 cm. The 1  kHz sound of a Tawny Owl will not suffer major loss unless the mic is off by 7.5 cm.
+The Wildtronics paper clarifies this. It's frequency-related (higher-pitched sounds require greater accuracy than lower), but in short, an 8  kHz sound, such as the ubiquitous Redwing, will be seriously impaired by an inaccuracy of even 1 cm. The 1  kHz sound of a Tawny Owl will not suffer major loss unless the mic is off by 7.5 cm.
 
 So, to the experiment. Last night I removed one of the mics, and placed the remaining one as close as possible to the focus. I would estimate that it is within 0.5 cm, assuming the focus is correctly marked on the column (and I have great faith in Andrew at [parabolicmicrophone.co.uk](parabolicmicrophone.co.uk), who seems to have done his homework).
 
