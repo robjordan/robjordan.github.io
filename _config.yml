@@ -36,7 +36,7 @@ plugins:
   - jekyll-redirect-from
 
 # Google services
-google_analytics: UA-176714354-1
+google_analytics: G-8QEYR4VKJR
 
 # Exclude from processing.
 # The following items will not be processed, by default.
